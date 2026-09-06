@@ -6,7 +6,8 @@ This repository is a record of what I learn and build throughout the course — 
 
 ## Course Contents
 
-- [01 — Introduction](./01-intro/) —  NumPy, Pandas, linear algebra, and ML fundamentals
+- [01 — Introduction](./01-intro/) — NumPy, Pandas, linear algebra, and ML basics
+- [02 — Regression](./02-regression/) — Linear regression, validation, feature engineering, categorical variables, regularization, and tuning
 
 ##  What You'll Find
 
@@ -15,10 +16,5 @@ This repository is a record of what I learn and build throughout the course — 
 - **Homework** — weekly Zoomcamp assignments
 - **Experiments** — things I explore while learning
 - **Projects** — projects completed as part of ML Zoomcamp
-
-
-##  Progress
-
-- [ ] Introduction
 
 ---
