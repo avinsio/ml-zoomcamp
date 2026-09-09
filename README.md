@@ -8,6 +8,7 @@ A collection of my **notes, practice, experiments, homework, and projects** as I
 
 * [01 — Introduction](./01-intro/) — NumPy, Pandas, linear algebra, and ML basics
 * [02 — Regression](./02-regression/) — Linear regression, validation, feature engineering, categorical variables, regularization, and tuning
+* [03 — Classification](./03-classification/) — 
 
 ## What You'll Find
 
